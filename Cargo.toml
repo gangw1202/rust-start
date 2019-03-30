@@ -1,0 +1,7 @@
+[package]
+name = "rest-start"
+version = "0.1.0"
+authors = ["GangW <wanggang@bsfit.com.cn>"]
+edition = "2018"
+
+[dependencies]
